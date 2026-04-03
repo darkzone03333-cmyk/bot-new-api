@@ -78,7 +78,7 @@ OUTPUT FORMAT - Generate ONLY this, nothing else:
 
 ✍️ Price: 
 ✍️ Login: 
-✍️ Dm To Buy: @GalaxyAccounts
+✍️ Dm To Buy: 
 
 DETAILED STRUCTURE:
 
@@ -143,7 +143,7 @@ DETAILED STRUCTURE:
 8. Footer (always):
    ✍️ Price: 
    ✍️ Login: [login method if visible, else leave blank]
-   ✍️ Dm To Buy: @GalaxyAccounts
+   ✍️ Dm To Buy: 
 
 CRITICAL FORMATTING RULES:
 - Plain text only - NO markdown, NO bold (**), NO italic, NO backticks
